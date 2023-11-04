@@ -1,0 +1,16 @@
+{
+  "name": "projetotelemetria",
+  "version": "0.0.1",
+  "description": "back-end-telemetry",
+  "main": "server.js",
+  "scripts": {
+    "start": "node bin/server.js"
+  },
+  "author": "Lucas Suzuki",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3"
+  }
+}
